@@ -1,7 +1,8 @@
 zkhack-hidden-in-plain-sight
 -------------------
 
-**DO NOT FORK THE REPOSITORY, AS IT WILL MAKE YOUR SOLUTION PUBLIC. INSTEAD, CLONE IT AND ADD A NEW REMOTE TO A PRIVATE REPOSITORY, OR SUBMIT A GIST**
+My solution to the ZK-Hack puzzle. https://zkhack.dev/events/puzzle4.html 
+Initial code comes from Kobi's repository https://github.com/kobigurk/zkhack-hidden-in-plain-sight/tree/main
 
 Trying it out
 =============
